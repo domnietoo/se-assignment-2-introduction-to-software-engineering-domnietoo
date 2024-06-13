@@ -23,7 +23,10 @@ Software Design Principles:
 Explain the concept of modularity in software design. How does it improve maintainability and scalability of software systems?
 Testing in Software Engineering:
 
-Describe the different levels of software testing (unit testing, integration testing, system testing, acceptance testing). Why is testing crucial in software development?
+Describe the different levels of software testing (unit testing, integration testing, system testing, acceptance testing). 
+
+Why is testing crucial in software development?
+
 Version Control Systems:
 
 What are version control systems, and why are they important in software development? Give examples of popular version control systems and their features.
